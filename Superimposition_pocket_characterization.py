@@ -18,7 +18,7 @@ Workflow:
      query file into a subdirectory named by its profile for easy browsing.
 
 Usage:
-  python La_pocket_characterization.py <ref_structure> <query_dir> [options]
+  python Superimposition_pocket_characterization.py <ref_structure> <query_dir> [options]
 
   Positional:
     ref_structure   Reference PDB/ENT/mmCIF file containing La3+

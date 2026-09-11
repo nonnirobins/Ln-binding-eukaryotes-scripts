@@ -1,0 +1,17 @@
+name: ln-binding-supplement
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib-base
+  - seaborn
+  - scikit-learn
+  - biopython
+  - gemmi
+  - pip
+  - pip:
+      - tmtools

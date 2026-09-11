@@ -1,0 +1,11 @@
+# Pip/venv route (Python 3.11+). Versions are those the analyses were run with.
+# Conda users: prefer environment.yml — see README.
+biopython==1.88
+gemmi==0.7.5
+matplotlib==3.11.1
+numpy==2.4.6
+pandas==3.0.5
+scikit-learn==1.9.1
+scipy==1.17.1
+seaborn==0.13.2
+tmtools==0.3.0
